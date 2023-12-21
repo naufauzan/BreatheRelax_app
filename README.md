@@ -1,6 +1,6 @@
 # BreatheRelax
- <!-- Include a logo or screenshot of your app -->
-
+![logo](https://github.com/naufauzan/BreatheRelax_app/blob/main/main/ic_launcher-playstore.png)
+ 
 # Description
 BreatheRelax is a simple Android app designed to help users practice and improve their breathing through guided breathing exercises. The app aims to promote relaxation, reduce stress, and enhance overall well-being.
 
